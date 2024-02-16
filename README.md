@@ -10,7 +10,7 @@ It has been over 2 years since I transitioned into the tech industry as a Fronte
 * 🖥️  See my portfolio at [minimomo14](http://minimomo14.github.io/mini-portfolio/)
 * ✉️  You can contact me at [minimomo14z@gmail.com](mailto:minimomo14z@gmail.com)
 * 🚀  I'm currently working on [Thai Food Restaurant Website Project, 🍜where I'd like to presenting the authentic essence of Thai street food using HTML, CSS, and JavaScript.🍉😊](http://minimomo14.github.io/street-thai-restaurant/)
-* 🧠  I'm learning Python
+* 🧠  I'm learning CS50 Python
 * 🤝  I'm open to collaborating on any fun projects! 😊
 
 ### Skills
