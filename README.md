@@ -7,7 +7,7 @@ Frontend/ Full Stack Developer
 It has been over 2 years since I transitioned into the tech industry as a Frontend/Full Stack Developer. Following my graduation from the JavaScript Full Stack program at Grand Circus Bootcamp in 2022, I continuous self-study to enhance my skills. I pursued additional courses and opportunities for learning to further develop my expertise.
 
 * 🌍  I'm based in Anywhere in the World!
-* 🖥️  See my portfolio at [minimomo14](https://minimomo14.github.io/momo-1.0.0/)
+* 🖥️  See my portfolio at [minimomo14](target="_blank"https://minimomo14.github.io/momo-1.0.0/")
 * ✉️  You can contact me at [minimomo14z@gmail.com](mailto:minimomo14z@gmail.com)
 * 🚀  I'm currently working on [Thai Food Restaurant Website Project, 🍜where I'd like to presenting the authentic essence of Thai street food using HTML, CSS, and JavaScript.🍉😊](http://minimomo14.github.io/street-thai-restaurant/)
 * 🧠  I'm learning CS50 Python
