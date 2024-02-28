@@ -1,10 +1,11 @@
-Hi 👋 My name is Momo Miller
+Hi 👋 I'm Momo Miller
 ============================
 
 Frontend/ Full Stack Developer
 ------------------------------
 
-It has been over 2 years since I transitioned into the tech industry as a Frontend/Full Stack Developer. Following my graduation from the JavaScript Full Stack program at Grand Circus Bootcamp in 2022, I continuous self-study to enhance my skills. I pursued additional courses and opportunities for learning to further develop my expertise.
+It has been over 2 years since I transitioned into the tech industry as a Frontend/Full Stack Developer. Following my graduation from the JavaScript Full Stack program at Grand Circus Bootcamp in 2022, I continuous self-study to enhance my skills. 
+I pursued additional courses and opportunities for learning to further develop my expertise.
 
 * 🌍  I'm based in Anywhere in the World!
 * 🖥️  See my portfolio at [minimomo14](https://minimomo14.github.io/momo-1.0.0/)
