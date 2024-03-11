@@ -1,4 +1,4 @@
-Hi 👋 My name is Momo Miller
+Hi 👋 I'm Momo Miller
 ============================
 
 Frontend/ Full Stack Developer
